@@ -21,4 +21,5 @@
 .byebug_history
 
 # Игнорирование прочих ненужных вещей
-/.idea/
+.idea/
+/spring/*.pid
